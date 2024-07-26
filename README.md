@@ -22,21 +22,24 @@ If you created something awesome and want to contribute then feel free to open a
 ## Sections
 
 ✔️ Summary and About me : Hello! I’m a dedicated Frontend Developer with nearly a year of experience in crafting dynamic
-web applications using React, Redux, TypeScript, and various UI frameworks. My expertise lies in enhancing user
-interfaces and optimizing performance to elevate your web applications. Ready to bring your digital projects to life
-with precision and flair!
+                          web applications using React, Redux, TypeScript, and various UI frameworks. My expertise lies in enhancing user
+                          interfaces and optimizing performance to elevate your web applications. Ready to bring your digital projects to life
+                          with precision and flair!
+
 ✔️ Skills : Frontend Technologies: React.js, Next.js, Angular, TypeScript, JavaScript, HTML,
-CSS, SCSS, SASS React Libraries: Redux Toolkit, Re-Charts, React-Grid-Layout, React-Google-Maps, Formik, Yup React UI
-Frameworks/Libraries: Tailwind, Material UI, Chakra UI, Styled Components Programming Languages: C, C++, JavaScript
-Tools: Git, GitLab, GitHub, Babel, Jira, Webpack, Figma Responsive Designs: Media Queries, Grid, Flexbox
-✔️ Education :
-Bachelor of Technology - Computer Science and Engineering ✔️ Work Experience\
-✔️ Projects : 
+            CSS, SCSS, SASS React Libraries: Redux Toolkit, Re-Charts, React-Grid-Layout, React-Google-Maps, Formik, Yup React UI  
+            Frameworks/Libraries: Tailwind, Material UI, Chakra UI, Styled Components Programming Languages: C, C++, JavaScript
+            Tools: Git, GitLab, GitHub, Babel, Jira, Webpack, Figma Responsive Designs: Media Queries, Grid, Flexbox
+
+✔️ Education : Bachelor of Technology - Computer Science and Engineering ✔️ Work Experience\
+
+✔️ Projects :  
+
 BLox Project Link: Lox Developed user authentication and role-based routing with React and Redux Toolkit. Utilized
-Chakra UI for theming and React-Grid-Layout for dynamic dashboard design.
+                  Chakra UI for theming and React-Grid-Layout for dynamic dashboard design.
 
 Loadmee Project Link: Loadmee Integrated Google API for live driver tracking and managed CRUD operations with React and
-Redux Toolkit. Streamlined admin interface using a single table component for multiple views.
+                      Redux Toolkit. Streamlined admin interface using a single table component for multiple views.
 
 TPI Lab Project Link: TPI Lab Enhanced data navigation and CRUD operations in Angular with RxJS and NgRx. Optimized
 

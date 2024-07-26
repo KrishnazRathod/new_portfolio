@@ -20,7 +20,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "KrishnazRathod",
 };
 
 export const contact = {};

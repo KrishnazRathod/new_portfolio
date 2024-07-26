@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }: { githubProfileData: any }) 
       <Proficiency />
       <Education />
       <Experience />
-      <Feedbacks />
+      {/* <Feedbacks /> */}
       <Projects />
       <GithubProfileCard {...githubProfileData} />
     </div>
@@ -38,6 +38,7 @@ export async function getStaticProps() {
     `https://api.github.com/users/${openSource.githubUserName}`
   ).then(res => res.json());
 
+  console.log("githubProfileData:", githubProfileData);
   return {
     props: { githubProfileData },
   };

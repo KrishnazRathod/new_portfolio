@@ -35,5 +35,5 @@ TPI Lab Project Link: TPI Lab Enhanced data navigation and CRUD operations in An
 👤 **Krishna rathod**
 
 - Website: https://krishna.netlify.app
-- Github: [@1krishna100](https://github.com/KrishnazRathod)
-- LinkedIn: [@1krishna100](https://www.linkedin.com/in/krishna-rathod-b8857531b/)
+- Github: [@KrishnazRathhod](https://github.com/KrishnazRathod)
+- LinkedIn: [@krishna Rathod](https://www.linkedin.com/in/krishna-rathod-b8857531b/)

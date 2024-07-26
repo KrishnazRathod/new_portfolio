@@ -9,14 +9,14 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
       <Container className="">
         <div className="p-2">
           <Row className="">
-            <Col className="order-lg-2" lg="4">
+            {/* <Col className="order-lg-2" lg="4">
               <img
                 src={avatar_url}
                 style={{ width: "200px" }}
                 alt=""
                 className="rounded-circle img-center img-fluid shadow shadow-lg--hover mb-4"
               />
-            </Col>
+            </Col> */}
             <Col lg="8" className="order-lg-1">
               <h2 className="text-white">Reach Out to me!</h2>
               <p className="lead text-white mt-3">DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL</p>

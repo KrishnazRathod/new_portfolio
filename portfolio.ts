@@ -131,8 +131,8 @@ export const projects: ProjectType[] = [
   {
     name: "todo -web-app",
     desc: "This project is a Todo application built using React, designed to help users manage their tasks efficiently. The app is integrated with a mock API to simulate backend operations, such as fetching, creating, updating, and deleting tasks. This allows for a comprehensive demonstration of CRUD (Create, Read, Update, Delete) operations in a React application.",
-    github: "https://todo-web-app-omega.vercel.app/",
-    link: "https://github.com/KrishnazRathod",
+    github: "https://github.com/KrishnazRathod",
+    link: "https://todo-web-app-omega.vercel.app/",
   },
   // {
   //   name: "Giebo",
